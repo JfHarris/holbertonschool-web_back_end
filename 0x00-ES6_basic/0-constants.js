@@ -1,3 +1,4 @@
+/* using const on taskFirst and let on taskNext */
 export function taskFirst () {
   const task = 'I prefer const when I can.';
   return task;
